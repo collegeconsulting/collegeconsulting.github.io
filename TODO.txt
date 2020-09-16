@@ -1,0 +1,29 @@
+TODO tasks on landing page
+
+Showcase
+-better word for "needs" after "tell us your consluting..."
+-translucent background behind description for readability
+
+
+What We're Here For
+-replace "Selecting School"  with more meaningful topic
+-better desriptions for each topic
+
+How We Work
+-steps to the left of the pictures
+-pictures slightly bigger
+-make numbers '1, 2, 3' in a circle or square background
+-better descriptions
+
+
+
+Our Network Spans
+-same size and consistent pictures
+-centered
+
+-move let's get started button slightly down
+
+
+Contact Us
+-make custom email
+
